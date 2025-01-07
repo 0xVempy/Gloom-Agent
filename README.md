@@ -117,27 +117,9 @@ A web platform to compare different LLMs side-by-side.
 
 ![GLOOM-llm-arena](https://github.com/user-attachments/assets/edabba53-a1ef-4817-9153-38542ffbfec6)
 
-## Custom Themes
-
-GLOOM supports custom dark and light themes, which highlight response text and code blocks.
-
-![GLOOM-themes](https://github.com/sigoden/GLOOM/assets/4012553/29fa8b79-031e-405d-9caa-70d24fa0acf8)
-
-## Documentation
-
-- [Chat-REPL Guide](https://github.com/sigoden/GLOOM/wiki/Chat-REPL-Guide)
-- [Command-Line Guide](https://github.com/sigoden/GLOOM/wiki/Command-Line-Guide)
-- [Role Guide](https://github.com/sigoden/GLOOM/wiki/Role-Guide)
-- [RAG Guide](https://github.com/sigoden/GLOOM/wiki/RAG-Guide)
-- [Environment Variables](https://github.com/sigoden/GLOOM/wiki/Environment-Variables)
-- [Configuration Guide](https://github.com/sigoden/GLOOM/wiki/Configuration-Guide)
-- [Custom Theme](https://github.com/sigoden/GLOOM/wiki/Custom-Theme)
-- [Custom REPL Prompt](https://github.com/sigoden/GLOOM/wiki/Custom-REPL-Prompt)
-- [FAQ](https://github.com/sigoden/GLOOM/wiki/FAQ)
-
 ## License
 
-Copyright (c) 2023-2024 GLOOM-developers.
+Copyright (c) 2023-2025 GLOOM-developers.
 
 GLOOM is made available under the terms of either the MIT License or the Apache License 2.0, at your option.
 
